@@ -8,3 +8,10 @@ Install: `npm install`.
 
 Run: `npm start.`
 
+## Screenshots
+
+![](images/1.png)
+
+![](images/2.png)
+
+![](images/3.png)
